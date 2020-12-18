@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS Dasar</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+
+	<!-- bagian header template -->
+	<header>
+		<h1 class="judul">3 Waktu Terbaik Bagi Otak Untuk Belajar</h1>
+		<p class="deskripsi">"Untuk menjadi bisa itu butuh proses, salah satu proses itu adalah belajar"</p>
+	</header>
+	<!-- akhr bagian header template -->
+
+<section class="banner">
+	<div class="container">
+		<div class="benner-left">
+		<!-- ini bagian menu -->
+		<nav>
+			<ul>
+				<li>
+					<a href="#Home">Home</a>
+				</li>
+				<li>
+					<a href="#Profil">Profil</a>
+				</li>
+				<li>
+					<a href="#Agenda">Agenda</a>
+				</li>
+				<li>
+					<a href="#Dokumen">Dokumen</a>
+				</li>
+			</ul>
+		</nav>
+		<!-- akhir bagian menu -->
+	</div>
+	</div>
+</section>
+
+
+        <!-- bagian conten -->
+        <div>
+        <img src="Waktubelajar.jpg">
+        <h4><p><h3>A. Sebelumnya kita akan membahas waktu-waktu efektif otak melakukan aktivitas berikut ini:</h3>
+            <p>1. Jam 7 – 9 pagi (Semangat dan gairah): merupakan waktu terbaik untuk memperkuat ikatan hubungan dengan seseorang karena hormon cinta berada di level tertinggi.</p>
+            <p>2. Jam 9 – 11 siang (Kreativitas): merupakan waktu paling produktif untuk melakukan aktivitas Anda. Oleh karenanya, jika Anda memiliki tugas segera selesaikan pada waktu ini. Ini karena otak cukup mengeluarkan hormon stres sehingga bisa lebih fokus.</p>
+            <p>3. Jam 11 – 2 siang (Mengerjakan Tugas Sulit): merupakan waktu yang cocok untuk mengerjakan tugas berat karena hormon tidur menurun tajam.</p>
+            <p>4. Jam 2 – 3 siang (Beristirahat): merupakan saat terbaik untuk beristirahat siang karena asupan darah atau oksigen ke otak agak berkurang. Jam ini Anda akan mengantuk jadi cobalah beristirahat sebentar.</p>
+            <p>5. Jam 3 siang – 6 sore (Kolaborasi): merupakan saat otak benar-benar lelah jadi usahakan melakukan kegiatan yang berbeda bersama teman agar bisa lebih santai.</p>
+            <p>6. Jam 6 sore – 8 malam (Tugas Pribadi): merupakan waktu terbaik melakukan tugas pribadi karena otak masuk dalam tahap pemeliharaan.</p>
+            <p>7. Jam 8 – 10 malam (bersantai): merupakan saat yang tepat untuk bersantai karena Anda mulai mengantuk disebabkan hormon melatonin yang meningkat.</p>
+            <p>8. Jam 10 malam ke atas (Saatnya tidur): merupakan saat terbaik untuk tidur.</p>
+            <h3><p>B. Nah, Sebenarnya kapan waktu terbaik otak untuk belajar?</p></h3>
+
+            <p>1. Otak bisa fokus biasanya saat pagi hari karena masih dalam keadaan segar, yaitujam 9 –11 pagi.</p>
+            <p>2. Otak akan lebih mudah berkonsentrasi untuk mengerjakan tugas berat dan belajar pada Jam 11 – 2 siang.</p>
+            <p>3. Setelah belajar otak dapat beristirahat penuh dengan tidur semalaman. Oleh karenanya waktu terbaik otak untuk belajar adalah jam 6 –8 malam.</p>
+            </p></h4>
+	    </div>
+	    <!-- akhir bagian conten -->
+
+
+
+	    <!-- bagian footer -->
+    <footer>
+        <div class="container">
+            <small>Copyright &copy; 2020 - KALPIN O. ANGGA.</small>
+        </div>
+    </footer>
+        <!-- akhir bagian footer -->    
+
+</body>
+</html>
